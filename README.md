@@ -22,7 +22,7 @@ Hi there! I'm Diamadis, a passionate DevOps Software Engineer based in Athens, G
   <img src="icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/>
 </p>
 <p align="center">
-  [LinkedIn](https://www.linkedin.com/in/diamadis-konstantinidis-a7126b158/)
+    <a href="https://www.linkedin.com/in/diamadis-konstantinidis-a7126b158">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
