@@ -10,7 +10,7 @@ Hi there! I'm Diamadis, a passionate DevOps Software Engineer based in Athens, G
 
 <p align="center">
   <img src="icons/black/azure.png" alt="Azure" title="Azure" width="40" height="40"/>
-  <img src="icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
   <img src="icons/black/terraform.png" alt="Terraform" title="Terraform" width="40" height="40"/>
   <img src="icons/black/bicep.png" alt="Bicep" title="Bicep" width="40" height="40"/>
   <img src="icons/black/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
