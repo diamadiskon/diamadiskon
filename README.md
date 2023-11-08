@@ -21,7 +21,6 @@ Hi there! I'm Diamadis, a passionate DevOps Software Engineer based in Athens, G
   <img src="icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/>
   <img src="icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/>
 </p>
-
 <p align="center">
   <a href="www.linkedin.com/in/diamadis-konstantinidis-a7126b158">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
