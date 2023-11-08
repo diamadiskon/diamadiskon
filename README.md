@@ -23,7 +23,7 @@ Hi there! I'm Diamadis, a passionate DevOps Software Engineer based in Athens, G
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christos-galanopoulos/">
+  <a href="www.linkedin.com/in/diamadis-konstantinidis-a7126b158">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
