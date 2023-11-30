@@ -8,7 +8,7 @@ Hi there! I'm Diamadis, a passionate DevOps Software Engineer based in Athens, G
 - 💼 Aspiring Team Member at Performance Technologies 🏆
 - 📚 Lifelong learner dedicated to staying ahead in the ever-evolving tech world.
 
-*Dont forget to hit the Kubernetes icon 💪
+*<i>Don't forget to hit the Kubernetes icon</i> 💪
 
 <p align="center">
   <img src="icons/black/azure.png" alt="Azure" title="Azure" width="40" height="40"/>
