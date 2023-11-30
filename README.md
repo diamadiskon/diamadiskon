@@ -13,7 +13,7 @@ Hi there! I'm Diamadis, a passionate DevOps Software Engineer based in Athens, G
   <img src="icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
   <img src="icons/black/terraform.png" alt="Terraform" title="Terraform" width="40" height="40"/>
   <img src="icons/black/bicep.png" alt="Bicep" title="Bicep" width="40" height="40"/>
-  <a href="[https://cbccd9a2-ebfe-4913-ae2d-884e7a2399c0-adamantios-angelos-konstantinidis-bc1be698-413f-438d-ba0c-1cde13aa2a72-certificate.pdf](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cbccd9a2-ebfe-4913-ae2d-884e7a2399c0-adamantios-angelos-konstantinidis-bc1be698-413f-438d-ba0c-1cde13aa2a72-certificate.pdf)"><img src="icons/black/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/></a>
+  <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cbccd9a2-ebfe-4913-ae2d-884e7a2399c0-adamantios-angelos-konstantinidis-bc1be698-413f-438d-ba0c-1cde13aa2a72-certificate.pdf"><img src="icons/black/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="40" height="40"/></a>
   <img src="icons/black/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
   <img src="icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="40" height="40"/>
   <img src="icons/ruby/ruby-original-wordmark.svg" alt="Ruby" title="Ruby" width="40" height="40"/>
